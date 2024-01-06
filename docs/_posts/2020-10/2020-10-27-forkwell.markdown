@@ -1,4 +1,9 @@
-# 「Forkwell Open Sesame! ｜SaaS企業のリードエンジニア同士でお悩み相談会」に登壇
+---
+layout: post
+title:  "「Forkwell Open Sesame! ｜SaaS企業のリードエンジニア同士でお悩み相談会」に登壇"
+date:   2020-10-27 10:00:00 +0900
+categories: other
+---
 
 以下のイベントで、Railsアプリに自社の運用などを発表した。
 『継続的Gemアップデートの仕組みをOpen Sesame !』

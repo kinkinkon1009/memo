@@ -1,4 +1,9 @@
-# [読書] Who Moved My Cheese | Johnson, Spencer
+---
+layout: post
+title:  "[読書] Who Moved My Cheese | Johnson, Spencer"
+date:   2024-01-01 10:00:00 +0900
+categories: book
+---
 
 ## 読書の動機
 久しく読書していないので、何かしらをkindleで読もうと思った。
