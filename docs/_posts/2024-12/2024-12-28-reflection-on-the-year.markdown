@@ -5,6 +5,9 @@ title: "2024 Reflection and 2025 Resolution"
 date: 2024-12-28 10:00:00 +0900
 categories: other
 ---
+
+ I casually wrote something down at the end of the year.
+
 ## 2024 Reflection
 - 1Q
   - Vietnam Business Trip
@@ -40,3 +43,18 @@ categories: other
     - Youtube, Netflix, Slack etc are time-cosuming. I must find a way to manage them effectively.
 
 ## 2025 Resolution
+- Work
+  - Team
+    - Build a better team structure and improve the cycle step by step
+      - define role responsibilities, checkpoint meetings, leaders, communication flow, and the PDCA cycle.
+  - Technology
+    - Technical improvement themes for each quarter
+      - mainly E2E automated testing and system design for client side
+- Private
+  - English Level C1 from B2
+    - one hour every day. 30 minutes lesson and 30 minutes vocabulary session
+  - Trip
+    - Do activitiy alone locally, even without my wife.
+- An ambitious goal that might seem hard to imagine from the perspective of building connections and managing time effectively
+  - Gradually extend the time spent abroad each year. Move abroad starting at the age of 40.
+    - This would continuously motivate me and serve as a guding principle for new actions
