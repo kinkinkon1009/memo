@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "2024 Reflection and 2025 Resolution"
