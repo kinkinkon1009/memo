@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Books"
+date: 2024-12-31 10:00:00 +0900
+categories: book
+---
+
+過去に読んでなんとなく良かった気がする本を列挙。先頭に出版年を記述。曖昧なので間違っている可能性あり。
+
+## 経営・戦略
+- 1984 The Goal（ザ・ゴール）
+- 1994 Built to Last（ビジョナリー・カンパニー 時代を超える生存の原則）
+- 1997 The Innovator's Dilemma（イノベーションのジレンマ）
+- 2010 ストーリーとしての競争戦略
+- 2014 Zero to One（ZERO to ONE）
+- 2019 両利きの経営
+
+## チーム・リーダーシップ
+- 1936 How to Win Friends and Influence People（人を動かす）
+- 1989 The 7 Habits of Highly Effective People（７つの習慣）
+- 1991 Influence: The Psychology of Persuasion（影響力の武器）
+- [ ] 2004 プロフェッショナルマネジャー
+- [ ] 2006 熱狂する社員 企業競争力を決定するモチベーションの3要素
+- 2010 イシューからはじめよ 知的生産の「シンプルな本質」
+- 2013 嫌われる勇気 自己啓発の源流「アドラー」の教え
+- 2019 他者と働く
+- 2019 THE MODEL
+- 2020 リーダーの仮面
+
+## 自己啓発
+- 2014 エッセンシャル思考 最少の時間で成果を最大にする
+- 2015 Promote Yourself（PROMOTE YOURSELF 最強のキャリアをつくる働き方）
+- 2015 すぐやる人の「出会う」技術
+- 2016 Grit: The Power of Passion and Perseverance（やり抜く力 GRIT）
+- 2018 Atomic Habits（Atomic Habits. ジェームズ・クリアー式 複利で伸びる1つの習慣）
+- 2018 学びを結果に変えるアウトプット大全
+- [ ] 2021 起業のすすめ　さよなら、サラリーマン
+
+## 健康・運動
+- 2008 誰でもラクに美しく泳げる カンタン・スイミング
+- 2009 Born to Run（BORN TO RUN）
+- 2018 世界一シンプルで科学的に証明された究極の食事
+
+## IT・エンジニアリング
+- 2018 エンジニアリング組織論への招待
+
+## 建築・建設業界
+- 2022 建設業の望ましい未来
+
+## SF
+- 1959 The Sirens of Titan（タイタンの妖女）
+- 2006 The Three-Body Problem（三体）
+- 2021 Project Hail Mary（プロジェクト・ヘイル・メアリー）
+
+## お金
+- 1997 Rich Dad Poor Dad（金持ち父さん貧乏父さん）
+- 2020 本当の自由を手に入れる お金の大学
+
+## 教養
+- 1998 Who Moved My Cheese?（チーズはどこへ消えた?）
+- 2013 リー・クアンユー、世界を語る
+- 2014 世界を変えた10冊の本
+- 2018 Factfulness（FACTFULNESS）
+- 2024 書いてはいけない
+
+## 小説
+- 2022 君のクイズ
+
+## 自伝等
+- 2023 怪物に出会った日
