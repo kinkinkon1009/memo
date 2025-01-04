@@ -3,4 +3,5 @@ gem 'nokogiri'
 gem 'rack', '~> 2.2.8'
 gem 'rspec'
 
-gem 'jekyll'
+# for mmistakes/so-simple-theme
+gem "github-pages", group: :jekyll_plugins
