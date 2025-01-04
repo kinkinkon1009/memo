@@ -21,6 +21,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true  
 author:
   name: Ayumu Kanechika
   twitter: KanechikaAyumu
