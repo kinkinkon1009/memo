@@ -1,5 +1,8 @@
+locale: "ja-JP"
 title: kinkinkon1009's memo
+description: "This is my blog."
 url: "https://kinkinkon1009.github.io"
+baseurl: "/memo"
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 read_time: true
