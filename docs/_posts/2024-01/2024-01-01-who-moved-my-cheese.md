@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] Who Moved My Cheese | Johnson, Spencer"
 date:   2024-01-01 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

@@ -2,7 +2,7 @@
 layout: post
 title: "[読書] グレートリセット後の世界をどう生きるか 激変する金融不動産市場"
 date: 2024-11-17 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## メモ

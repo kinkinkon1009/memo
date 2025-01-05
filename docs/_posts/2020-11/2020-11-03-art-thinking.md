@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] 「自分だけの答え」が見つかる 13歳からのアート思考"
 date:   2020-11-07 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 # 読書理由

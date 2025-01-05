@@ -2,7 +2,7 @@
 layout: post
 title:  "最近の読書"
 date:   2024-06-09 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 - Atomic Habits

@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] 仮説思考"
 date:   2024-01-11 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

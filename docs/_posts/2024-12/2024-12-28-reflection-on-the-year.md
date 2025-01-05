@@ -2,7 +2,7 @@
 layout: post
 title: "2024 Reflection and 2025 Resolution"
 date: 2024-12-28 10:00:00 +0900
-categories: other
+categories: Resolution
 ---
 
  I casually wrote something down at the end of the year.

@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] 人生で読んでおいた方がいいビジネス書75冊"
 date:   2024-01-07 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

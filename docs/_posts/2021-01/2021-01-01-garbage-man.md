@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] ゴミ人間 日本中から笑われた夢がある"
 date:   2021-01-01 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

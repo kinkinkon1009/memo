@@ -2,7 +2,7 @@
 layout: post
 title: "マンション査定・売却"
 date: 2024-11-10 10:00:00 +0900
-categories: other
+categories: Housing
 ---
 
 引っ越しに向けて

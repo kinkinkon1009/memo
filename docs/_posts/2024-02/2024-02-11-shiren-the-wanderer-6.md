@@ -2,7 +2,7 @@
 layout: post
 title:  "[ゲーム] 風来のシレン6（switch）"
 date:   2024-02-11 10:00:00 +0900
-categories: game
+categories: Game
 ---
 
 昔からローグライクゲームの「トルネコ」「風来のシレン」などをプレイしている為、今回の新作もプレイ。

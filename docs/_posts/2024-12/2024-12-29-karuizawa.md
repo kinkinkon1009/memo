@@ -2,7 +2,7 @@
 layout: post
 title: "Karuizawa Trip"
 date: 2024-12-29 10:00:00 +0900
-categories: trip
+categories: Trip
 ---
 
 A 3-day, 2-night trip to Karuizawa.

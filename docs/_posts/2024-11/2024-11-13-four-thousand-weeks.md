@@ -2,7 +2,7 @@
 layout: post
 title: "[読書] 限りある時間の使い方 人生は「4000週間」あなたはどう使うか？"
 date: 2024-11-13 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

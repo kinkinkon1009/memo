@@ -2,7 +2,7 @@
 layout: post
 title: "[読書] エンジニアリング組織論への招待 ～不確実性に向き合う思考と組織のリファクタリング～"
 date: 2024-11-15 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 要点

@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] パターン、Wiki、XP ~時を超えた創造の原則"
 date:   2020-10-12 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 本の中身

@@ -2,7 +2,7 @@
 layout: post
 title:  "[絵画] アクリル絵画を描いてみた"
 date:   2020-11-07 10:00:00 +0900
-categories: art
+categories: Other
 ---
 
 # [絵画] アクリル絵画を描いてみた

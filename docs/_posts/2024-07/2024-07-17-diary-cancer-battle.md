@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] がん闘病日記 ― お金よりずっと大切なこと"
 date:   2024-07-17 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 著「森永 卓郎」さん

@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] 108年の幸せな孤独 キューバ最後の日本人移民、島津三一郎"
 date:   2024-07-27 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

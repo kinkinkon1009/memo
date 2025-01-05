@@ -2,7 +2,7 @@
 layout: post
 title:  "英検準1級 不合格"
 date:   2024-06-08 10:00:00 +0900
-categories: english
+categories: English
 ---
 
 ## 英検準1級 不合格

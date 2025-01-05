@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] 英検準1級 文で覚える単熟語"
 date:   2024-02-10 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

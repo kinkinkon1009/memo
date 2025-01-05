@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] 書いてはいけない - 日本経済墜落の真相"
 date:   2024-07-14 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 著「森永 卓郎」さん

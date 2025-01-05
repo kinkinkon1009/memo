@@ -2,7 +2,7 @@
 layout: post
 title:  "[ゲーム] PlayStation Storeでの返金手続き"
 date:   2024-02-29 10:00:00 +0900
-categories: game
+categories: Game
 ---
 
 PlayStation Storeにて、誤って「Final Fantasy VII Rebirth」と「Final Fantasy Vii Remake & Rebirth Twin Pack」を購入してしまった。

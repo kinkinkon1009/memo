@@ -2,7 +2,7 @@
 layout: post
 title:  "[読書] 怪物に出会った日 井上尚弥と闘うということ"
 date:   2024-01-02 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機

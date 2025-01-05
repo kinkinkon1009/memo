@@ -2,7 +2,7 @@
 layout: post
 title: "[読書] 他者と働く──「わかりあえなさ」から始める組織論 | 宇田川 元一"
 date: 2024-08-10 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 読書の動機
