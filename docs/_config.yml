@@ -1,4 +1,5 @@
-locale: "ja-JP"
+# Set to "en" as specifying "ja" breaks the Search page functionality.
+locale: "en"
 title: kinkinkon1009's memo
 description: "This is my blog."
 url: "https://kinkinkon1009.github.io"
