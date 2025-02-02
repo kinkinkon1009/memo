@@ -2,7 +2,7 @@
 layout: post
 title: "「Professional Manager」を読んだ"
 date: 2025-01-10 10:00:00 +0900
-categories: book
+categories: Book
 ---
 
 ## 書籍からの引用など
