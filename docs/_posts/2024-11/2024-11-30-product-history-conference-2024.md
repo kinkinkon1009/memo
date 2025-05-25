@@ -2,7 +2,7 @@
 layout: post
 title: "プロダクトヒストリーカンファレンス2024 登壇"
 date: 2024-11-30 10:00:00 +0900
-categories: Wook
+categories: Work
 ---
 
 「社会課題を技術で解消する 開発と組織作りの軌跡」登壇させてもらった

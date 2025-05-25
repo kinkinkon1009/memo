@@ -2,7 +2,7 @@
 layout: post
 title:  "会社のYoutubeLiveのABCに兄と出演"
 date:   2020-10-23 10:00:00 +0900
-categories: Wook
+categories: Work
 ---
 
 「役員が”今”話したい人」の兄CTOの会で、人事の方を交えて、インタビュー形式で会話 今まで、現状、これからの組織のことなどを双方に質問しあう形式で、改めてお互いのことを知れて良かった。
