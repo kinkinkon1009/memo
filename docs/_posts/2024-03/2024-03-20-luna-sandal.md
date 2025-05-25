@@ -2,7 +2,7 @@
 layout: post
 title:  "ルナサンダル"
 date:   2024-03-20 10:00:00 +0900
-categories: Health
+categories: Health,Habits
 ---
 
 ランニング向けにルナサンダルVenado 2.0を買い替えた。いつも膝を壊すが、このサンダルを履いて走るようになってから壊しにくくなった気がする。

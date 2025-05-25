@@ -2,7 +2,7 @@
 layout: post
 title:  "BOOSTランニングフェスタ in 国立競技場"
 date:   2024-02-04 10:00:00 +0900
-categories: Health
+categories: Health,Habits
 ---
 
 [BOOSTランニングフェスタ in 国立競技場](https://boost-inc.jp/kokuritsu/) に参加。リレー形式で 1.4km x 30周 で 42kmのフルマラソン。9人の参加で、遅れての参加で、1.4km x 2周 を担当した

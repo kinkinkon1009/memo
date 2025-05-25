@@ -2,7 +2,7 @@
 layout: post
 title: "Break Bad Habit"
 date: 2025-02-02 10:00:00 +0900
-categories: Habit
+categories: Health,Habits
 ---
 
 When you engage in a habit you want to quit ( like touching your hair when stressed ) log the time in your planner or a memo app. Also, record the time elapsed since the last occurrence. 
